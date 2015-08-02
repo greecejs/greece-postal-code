@@ -1,0 +1,4 @@
+---
+extends:
+  - rigorous
+  - rigorous/iojs
