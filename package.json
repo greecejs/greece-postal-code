@@ -6,7 +6,8 @@
   "scripts": {
     "test": "node test.js",
     "lint": "eslint .",
-    "ci": "npm run lint && npm test"
+    "cover": "istanbul cover test.js",
+    "ci": "npm run lint && npm run cover"
   },
   "repository": {
     "type": "git",
@@ -42,6 +43,7 @@
   ],
   "devDependencies": {
     "eslint": "^2.0.0-rc.0",
+    "istanbul": "^0.4.2",
     "tape": "^4.4.0"
   }
 }

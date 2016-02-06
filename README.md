@@ -1,4 +1,4 @@
-# greece-postal-code [![Build Status](https://travis-ci.org/greecejs/greece-postal-code.svg?branch=master)](https://travis-ci.org/greecejs/greece-postal-code)
+# greece-postal-code [![Build Status](https://travis-ci.org/greecejs/greece-postal-code.svg?branch=master)](https://travis-ci.org/greecejs/greece-postal-code) ![Coverage Status](https://coveralls.io/repos/github/greecejs/greece-postal-code/badge.svg?branch=master)](https://coveralls.io/github/greecejs/greece-postal-code?branch=master)
 
 > Validation of postal codes used in Greece.
 
