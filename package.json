@@ -8,7 +8,10 @@
     "lint": "eslint .",
     "ci": "npm run lint && npm test"
   },
-  "repository": "alefteris/greece-postal-code",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/greecejs/greece-postal-code.git"
+  },
   "keywords": [
     "greece",
     "greek",
@@ -24,6 +27,10 @@
   ],
   "author": "Thanos Lefteris <alefteris@gmail.com> (http://thanoslefteris.com/)",
   "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/greecejs/greece-postal-code/issues"
+  },
+  "homepage": "https://github.com/greecejs/greece-postal-code#readme",
   "devDependencies": {
     "chai": "3.2.0",
     "eslint": "0.24.1",

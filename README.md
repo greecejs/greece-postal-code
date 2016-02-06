@@ -1,4 +1,4 @@
-# greece-postal-code [![Build Status](https://travis-ci.org/alefteris/greece-postal-code.svg?branch=master)](https://travis-ci.org/alefteris/greece-postal-code)
+# greece-postal-code [![Build Status](https://travis-ci.org/greecejs/greece-postal-code.svg?branch=master)](https://travis-ci.org/greecejs/greece-postal-code)
 
 > Validation of postal codes used in Greece.
 
