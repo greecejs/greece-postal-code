@@ -35,6 +35,11 @@
     "url": "https://github.com/greecejs/greece-postal-code/issues"
   },
   "homepage": "https://github.com/greecejs/greece-postal-code#readme",
+  "files": [
+    "LICENSE",
+    "README.md",
+    "index.js"
+  ],
   "devDependencies": {
     "chai": "3.2.0",
     "eslint": "0.24.1",
