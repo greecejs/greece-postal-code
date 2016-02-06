@@ -42,8 +42,7 @@
   ],
   "devDependencies": {
     "chai": "3.2.0",
-    "eslint": "0.24.1",
-    "eslint-config-rigorous": "alefteris/eslint-config-rigorous",
+    "eslint": "^2.0.0-rc.0",
     "mocha": "2.2.5"
   }
 }
