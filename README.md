@@ -15,7 +15,7 @@ $ npm install greece-postal-code
 To validate a postal code:
 
 ```js
-const postalCode = require('greece-postal-code');
+var postalCode = require('greece-postal-code');
 
 postalCode.validate('10188'); // true
 postalCode.validate('ab1234'); // false
@@ -25,7 +25,7 @@ Please note that the validation is strict, for example it will not allow spaces.
 
 ```js
 postalCode.validate('101 88 '); // false
-const cleaned = postalCode.clean('101 88 '); // '10188'
+var cleaned = postalCode.clean('101 88 '); // '10188'
 postalCode.validate(cleaned); // true
 ```
 

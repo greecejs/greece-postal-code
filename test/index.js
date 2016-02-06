@@ -1,10 +1,10 @@
 'use strict';
 
-const chai = require('chai');
+var chai = require('chai');
 
-const postalCode = require('../index');
+var postalCode = require('../index');
 
-const expect = chai.expect;
+var expect = chai.expect;
 
 describe('Those postal codes', function() {
   it('should be valid', function() {
